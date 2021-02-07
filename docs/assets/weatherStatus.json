@@ -1,0 +1,383 @@
+{
+  "weatherStatus": [{
+      "condition": "thunderstorm with light rain",
+      "description": "Mưa nhẹ có sấm chớp",
+      "image": "assets/weatherImg/rainWithLightning.jpg",
+      "icon": "assets/weatherIcon/lightRainWithLightning.png"
+    },
+
+    {
+      "condition": "thunderstorm with rain",
+      "description": "Mưa giông có sấm chớp",
+      "image": "assets/weatherImg/rainWithLightning.jpg",
+      "icon": "assets/weatherIcon/heavyRainWithLightning.png"
+    },
+
+    {
+      "condition": "thunderstorm with heavy rain",
+      "description": "Mưa to có sấm chớp",
+      "image": "assets/weatherImg/rainWithLightning.jpg",
+      "icon": "assets/weatherIcon/heavyRainWithLightning.png"
+    },
+
+    {
+      "condition": "light thunderstorm",
+      "description": "Sấm chớp nhẹ",
+      "image": "assets/weatherImg/lightning.jpg",
+      "icon": "assets/weatherIcon/lightning.png"
+    },
+
+    {
+      "condition": "thunderstorm",
+      "description": "Có sấm chớp",
+      "image": "assets/weatherImg/lightning.jpg",
+      "icon": "assets/weatherIcon/lightning.png"
+    },
+
+    {
+      "condition": "heavy thunderstorm",
+      "description": "Sấm chớp lớn",
+      "image": "assets/weatherImg/lightning.jpg",
+      "icon": "assets/weatherIcon/heavyLightning.png"
+    },
+
+    {
+      "condition": "ragged thunderstorm",
+      "description": "Sấm chớp nguy hiểm",
+      "image": "assets/weatherImg/lightning.jpg",
+      "icon": "assets/weatherIcon/heavyLightning.png"
+    },
+
+    {
+      "condition": "thunderstorm with light drizzle",
+      "description": "Mưa phùn nhẹ có sấm chớp",
+      "image": "assets/weatherImg/drizzleWithLightning.jpg",
+      "icon": "assets/weatherIcon/lightRainWithLightning.png"
+    },
+
+    {
+      "condition": "thunderstorm with drizzle",
+      "description": "Mưa phùn có sấm chớp",
+      "image": "assets/weatherImg/drizzleWithLightning.jpg",
+      "icon": "assets/weatherIcon/lightRainWithLightning.png"
+    },
+
+    {
+      "condition": "thunderstorm with heavy drizzle",
+      "description": "Mưa phùn nặng hạt có sấm chớp",
+      "image": "assets/weatherImg/drizzleWithLightning.jpg",
+      "icon": "assets/weatherIcon/lightRainWithLightning.png"
+    },
+
+    {
+      "condition": "light intensity drizzle",
+      "description": "Mưa phùn nhẹ",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/lightRainWithLightning.png"
+    },
+
+    {
+      "condition": "drizzle",
+      "description": "Mưa phùn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/drizzle.png"
+    },
+
+    {
+      "condition": "heavy intensity drizzle",
+      "description": "Mưa phùn dài hạn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/drizzle.png"
+    },
+
+    {
+      "condition": "light intensity drizzle rain",
+      "description": "Mưa phùn ngắn hạn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/drizzle.png"
+    },
+
+    {
+      "condition": "drizzle rain",
+      "description": "Mưa phùn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/drizzle.png"
+    },
+    {
+      "condition": "heavy intensity drizzle rain",
+      "description": "Mưa phùn lớn dài hạn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/heavyDrizzle.png"
+    },
+
+    {
+      "condition": "shower rain and drizzle",
+      "description": "Mưa phùn nặng hạn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/heavyDrizzle.png"
+    },
+    {
+      "condition": "heavy shower rain and drizzle",
+      "description": "Mưa phùn lớn nặng hạt",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/heavyDrizzle.png"
+    },
+
+    {
+      "condition": "shower drizzle",
+      "description": "Mưa phùn lớn",
+      "image": "assets/weatherImg/drizzle.jpg",
+      "icon": "assets/weatherIcon/drizzle.png"
+    },
+
+    {
+      "condition": "light rain",
+      "description": "Mưa nhỏ",
+      "image": "assets/weatherImg/lightRain.jpg",
+      "icon": "assets/weatherIcon/lightRain.png"
+    },
+
+    {
+      "condition": "moderate rain",
+      "description": "Mưa vừa",
+      "image": "assets/weatherImg/rainy.jpg",
+      "icon": "assets/weatherIcon/rain.png"
+    },
+
+    {
+      "condition": "heavy intensity rain",
+      "description": "Mưa dài hạn",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+
+    {
+      "condition": "very heavy rain",
+      "description": "Mưa rất lớn",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+
+    {
+      "condition": "extreme rain",
+      "description": "Mưa cực lớn(Nguy cơ ngập lụt)",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+
+    {
+      "condition": "freezing rain",
+      "description": "Mưa tuyết",
+      "image": "assets/weatherImg/freezingRain.jpg",
+      "icon": "assets/weatherIcon/frezzingRain.png"
+      
+    },
+
+    {
+      "condition": "light intensity shower rain",
+      "description": "Mưa rào ngắn",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+
+    {
+      "condition": "shower rain",
+      "description": "Mưa rào",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+
+    {
+      "condition": "heavy intensity shower rain",
+      "description": "Mưa rào dài",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+    {
+      "condition": "ragged shower rain",
+      "description": "Mưa rào",
+      "image": "assets/weatherImg/heavyRain.jpg",
+      "icon": "assets/weatherIcon/heavyRain.png"
+    },
+
+
+    {
+      "condition": "light snow",
+      "description": "Có tuyết nhẹ",
+      "image": "assets/weatherImg/snowing.jpg",
+      "icon": "assets/weatherIcon/lightSnow.png"
+    },
+
+    {
+      "condition": "snow",
+      "description": "Có tuyết",
+      "image": "assets/weatherImg/snowing.jpg",
+      "icon": "assets/weatherIcon/snow.png"
+    },
+    {
+      "condition": "Snow",
+      "description": "Có tuyết",
+      "image": "assets/weatherImg/snowing.jpg",
+      "icon": "assets/weatherIcon/snow.png"
+    },
+
+    {
+      "condition": "Heavy snow",
+      "description": "Có tuyết lớn",
+      "image": "assets/weatherImg/heavySnow.jpg",
+      "icon": "assets/weatherIcon/heavySnow.png"
+    },
+
+    {
+      "condition": "Sleet",
+      "description": "Mưa đá",
+      "image": "assets/weatherImg/heavySnow.jpg",
+      "icon": "assets/weatherIcon/sleet.png"
+    },
+
+    {
+      "condition": "Light shower sleet",
+      "description": "Mưa đá cường độ ít",
+      "image": "assets/weatherImg/heavySnow.jpg",
+      "icon": "assets/weatherIcon/sleet.png"
+    },
+
+    {
+      "condition": "Shower sleet",
+      "description": "Mưa đá dày đặc",
+      "image": "assets/weatherImg/heavySnow.jpg",
+      "icon": "assets/weatherIcon/sleet.png"
+    },
+
+    {
+      "condition": "Light rain and snow",
+      "description": "Mưa nhẹ và có tuyết",
+      "image": "assets/weatherImg/rainWithSnow.jpg",
+      "icon": "assets/weatherIcon/lightSnow.png"
+    },
+
+    {
+      "condition": "rain and snow",
+      "description": "Mưa vừa có tuyết",
+      "image": "assets/weatherImg/rainWithSnow.jpg",
+      "icon": "assets/weatherIcon/snow.png"
+    },
+
+    {
+      "condition": "Light shower snow",
+      "description": "Có tuyết nhẹ",
+      "image": "assets/weatherImg/lightSnow.jpg",
+      "icon": "assets/weatherIcon/lightSnow.png"
+    },
+
+    {
+      "condition": "Shower snow",
+      "description": "Tuyết rơi vừa",
+      "image": "assets/weatherImg/midSnow.jpg",
+      "icon": "assets/weatherIcon/snow.png"
+    },
+
+    {
+      "condition": "Heavy shower snow",
+      "description": "Tuyết rơi nặng",
+      "image": "assets/weatherImg/heavySnow.jpg",
+      "icon": "assets/weatherIcon/heavySnow.png"
+    },
+
+    {
+      "condition": "mist",
+      "description": "Có sương mù",
+      "image": "assets/weatherImg/mist.jpg",
+      "icon": "assets/weatherIcon/mist.png"
+    },
+
+    {
+      "condition": "haze",
+      "description": "Sương mù mỏng",
+      "image": "assets/weatherImg/haze.jpg",
+      "icon": "assets/weatherIcon/haze.png"
+    },
+
+    {
+      "condition": "fog",
+      "description": "Sương mù dày",
+      "image": "assets/weatherImg/fog.jpg",
+      "icon": "assets/weatherIcon/fog.png"
+    },
+    {
+      "condition": "Smoke",
+      "description": "Sương mù ô nhiễm",
+      "image": "assets/weatherImg/smoke.jpg",
+      "icon": "assets/weatherIcon/smog.png"
+    },
+
+    {
+      "condition": "dust",
+      "description": "Bụi xoáy",
+      "image": "assets/weatherImg/dust.jpg",
+      "icon": "assets/weatherIcon/dust.png"
+    },
+
+    {
+      "condition": "sand",
+      "description": "Cát",
+      "image": "assets/weatherImg/dust.jpg",
+      "icon": "assets/weatherIcon/sand.png"
+    },
+    {
+      "condition": "volcanic ash",
+      "description": "Có tro bụi núi lửa",
+      "image": "assets/weatherImg/volcanic.jpg",
+      "icon": "assets/weatherIcon/volcanic.png"
+    },
+
+    {
+      "condition": "squalls",
+      "description": "Gió mạnh",
+      "image": "assets/weatherImg/squall.jpg",
+      "icon": "assets/weatherIcon/squall.png"
+    },
+
+    {
+      "condition": "tornado",
+      "description": "Lốc xoáy",
+      "image": "assets/weatherImg/tornado.jpg",
+      "icon": "assets/weatherIcon/tornado.png"
+    },
+
+    {
+      "condition": "clear sky",
+      "description": "Trời thoáng đãng",
+      "image": "assets/weatherImg/clear.jpg",
+      "icon": "assets/weatherIcon/sun.png"
+    },
+
+    {
+      "condition": "few clouds",
+      "description": "Trời ít mây",
+      "image": "assets/weatherImg/fewCloud.jpg",
+      "icon": "assets/weatherIcon/cloud.png"
+    },
+
+    {
+      "condition": "scattered clouds",
+      "description": "Có mây rải rác",
+      "image": "assets/weatherImg/scatteredCloud.jpg",
+      "icon": "assets/weatherIcon/scattedCloud.png"
+    },
+
+    {
+      "condition": "broken clouds",
+      "description": "Mây tan",
+      "image": "assets/weatherImg/brokenCloud.jpg",
+      "icon": "assets/weatherIcon/brokenCloud.png"
+    },
+    {
+      "condition": "overcast clouds",
+      "description": "Trời tối mây u ám",
+      "image": "assets/weatherImg/overcastCloud.jpg",
+      "icon": "assets/weatherIcon/overcastCloud.png"
+    }
+
+  ]
+}
